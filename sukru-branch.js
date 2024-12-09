@@ -1,0 +1,1 @@
+const sukru = "Hallo";
