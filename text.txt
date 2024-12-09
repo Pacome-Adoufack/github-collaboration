@@ -8,8 +8,13 @@ Text Paco
 Test Michael 11.01
 Hi Katharina
 ein merge konflickt
+fehler
 
 ich bin bilal
 
+<<<<<<< HEAD
 
 ein letzter Merge konflickt test
+=======
+fehler Michael
+>>>>>>> eccb1b9a373b3557ea520e33de65f98104f7f378
